@@ -37,7 +37,5 @@ Step-5: Add android:noHistory="true" in activity in manifest file as shown in co
 
 Repeat Above steps whenever you are adding activity in android application or creating new project for new practical.
 
-![image](https://user-images.githubusercontent.com/92240128/189658467-b402d926-4545-422d-8f19-994fa9e3dae3.png)
-
 ![image](https://user-images.githubusercontent.com/92240128/189658588-3afbcde3-cb51-4188-8bd5-7d679d2e9084.png)
 
