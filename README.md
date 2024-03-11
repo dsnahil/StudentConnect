@@ -1,4 +1,3 @@
-# MADPractical3_20012011162
 Study: Resource, Theme, Color, Layout, Explicit Intent, BottomNavigationView, Gradle File structure, Material Design 3
 
 LinearLayout, RelativeLayout, ConstraintLayout, Card View, Image View, BottomNavigationView, Navigation Menu in res/menu folder, ScollView, MaterialToolBar, Light Theme, Dark Theme, jpg & png image in drawable folder, Data binding, Color in theme, string in xml file, TextInputLayout, TextInputEditText
