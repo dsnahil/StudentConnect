@@ -43,3 +43,6 @@ Repeat Above steps whenever you are adding activity in android application or cr
 ![pr3 (2)](https://user-images.githubusercontent.com/92240128/189668490-e89affa5-c232-4176-a55c-0ed2461fe933.jpeg)
 
 ![pr3 (3)](https://user-images.githubusercontent.com/92240128/189668497-b28f9b13-5126-41f4-ac4c-7ac34079a8dc.jpeg)
+
+![_- visual selection (2)](https://github.com/user-attachments/assets/60e90dfd-dd11-43a4-8c7f-bf149b19c274)
+
